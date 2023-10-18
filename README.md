@@ -2,6 +2,7 @@
 This is my latest Neovim setup for developing C, C++ and Python projects on a M1 Macbook Pro. This project is based on the configuration proposed by Takuya Matsuyama, however, his setup is aimed at web development. This project was developed by using Lua, Packer, Lualine, LSP, Treesitter, Autotag, Autopair, Bufferline, gitsigns, among others.
 
 Tech stack: Lua 5.4, Neovim 0.9 and Iterm 3.4.16.
+
 Tools: Takuya's video https://www.youtube.com/watch?v=ajmK0ZNcM4Q
 
 
